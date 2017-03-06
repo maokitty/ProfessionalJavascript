@@ -185,7 +185,7 @@ function conbineConstructorPrototype(){
 // constructFunction_622() //构造函数方式
 // prototypeMode_623_1() //使用原型链的方式
 // prototypeMode_623_2() //使用原型链的简单方式
-conbineConstructorPrototype() //推荐使用这种方式
+conbineConstructorPrototype_624() //推荐使用这种方式
 
 
 
